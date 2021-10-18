@@ -11,8 +11,12 @@ User have to register for resevation.
 Nurse have their own account to trace their duty schedule as below:
 
 email: nurse1@test.com, password: 123456
+
 email: nurse2@test.com, password: 123456
+
 email: nurse3@test.com, password: 123456
+
+Demo websit: https://smartapp-60069.web.app/
 
 ## Project setup
 
